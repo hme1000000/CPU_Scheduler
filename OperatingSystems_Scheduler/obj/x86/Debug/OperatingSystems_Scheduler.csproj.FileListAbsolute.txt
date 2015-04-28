@@ -1,0 +1,8 @@
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.Properties.Resources.resources
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.csproj.GenerateResource.Cache
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\bin\Debug\OperatingSystems_Scheduler.exe
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\bin\Debug\OperatingSystems_Scheduler.pdb
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.exe
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.pdb
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.CPU_Scheduler.resources
+C:\Users\Hussein\Documents\Visual Studio 2010\Projects\OperatingSystems_Scheduler\OperatingSystems_Scheduler\obj\x86\Debug\OperatingSystems_Scheduler.csprojResolveAssemblyReference.cache
